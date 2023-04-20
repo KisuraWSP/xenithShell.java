@@ -6,5 +6,7 @@
  *
  */
 module Shell{
-	//Shell Program
+//Shell Program
+//Does not work with Unicode
+//Characters in the command prompt
 }
