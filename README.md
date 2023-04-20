@@ -6,7 +6,7 @@
 </br>![change Directory](https://github.com/KisuraWSP/xenithShell.java/blob/main/assets/chdir_Desktop.png)</br></br>
 
 - To execute the jar file
-- Type **java -jar ** <**jar file name**> 
+- Type **java** **-** **jar** <**jar file name**> 
 </br>![call jar file](https://github.com/KisuraWSP/xenithShell.java/blob/main/assets/Call_jar.png)</br></br>
 
 - **Initial Welcome Screen** of the program looks like this
