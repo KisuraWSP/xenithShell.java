@@ -6,7 +6,5 @@
  *
  */
 module Shell{
-	/*
-  *Shell Program
-  */
+	//Shell Program
 }
