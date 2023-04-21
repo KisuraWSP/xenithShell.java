@@ -1,4 +1,4 @@
-# xenithShell.java
+# xenithShell.java (Windows)
 - If the user wants to execute the jar file, first they have to save it in a location where the user stores the program
 - Inorder to access the jar, they must access the directory that it is kept in 
 - eg:- The jar file is stored in my Desktop
